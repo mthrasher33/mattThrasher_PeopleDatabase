@@ -1,4 +1,4 @@
-# mattThraser_PeopleDatabase
+# mattThrasher_PeopleDatabase
 
 This is a database designed for a school system that stores information for students and employess. The database uses polymorphism to provide
 common and unique attributes for each type of person in the database.
